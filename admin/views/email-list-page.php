@@ -1,7 +1,7 @@
 <div class="wrap">
     <h1>Collected Emails</h1>
 
-    <table border="1" cellpadding="0">
+    <table border="1" cellpadding="10" style="border-collapse: collapse;">
         <tr>
             <th>Email</th>
             <th>Submitted At</th>
