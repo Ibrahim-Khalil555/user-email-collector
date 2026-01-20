@@ -27,5 +27,3 @@ A simple WordPress plugin to **collect email addresses** from users via a form a
 - Visit the page containing the form and submit an email.
 - Go to WordPress Admin → **User Emails** to see all collected emails.
 - Emails are saved in the database table `wp_uec_emails`.
-
----
