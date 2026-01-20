@@ -1,3 +1,15 @@
+### 1. Frontend Email Form
+
+![Frontend Email Form](assets/form.png)
+
+### 2. Admin Dashboard Table
+
+![Admin Dashboard](assets/emails-table.png)
+
+### 3. MySQL DataBase
+
+![DataBase](assets/DB.png)
+
 # User Email Collector Plugin
 
 A simple WordPress plugin to **collect email addresses** from users via a form and display them in the admin dashboard.
